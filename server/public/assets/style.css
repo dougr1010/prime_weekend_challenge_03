@@ -39,3 +39,11 @@ h1, h2, h3 {text-align: center}
     border-radius: 5px;
 
 }
+
+.indexcontainer {
+    clear: left;
+    width:950px;
+    height:80px;
+    text-align:center;
+    padding:4px;
+}
