@@ -1,0 +1,102 @@
+{
+"Epsilon":{
+"danielle":{
+"name":"Danielle Lauren Seidner",
+"description":"Howdy-ho, neighborinos! I'm Danielle. I live with my wife, Allison, and two cats, Freya and Loki. I enjoy various media, mainly TV shows - Doctor Who, Game of Thrones, Star Trek, and Avatar: TLA. And I TOTALLY take this assignment seriously.",
+"shoutOut":"Danielle, she has the courage to speak up and disagree when everyone else is too overwhelmed to say they have no clue what is happening."
+},
+"daveb":{
+"name":"David Owen Beck",
+"description":"24 years old, went to school in Duluth, plays guitar, records music, favorite beer is Stone's All Day IPA, loves gardening",
+"shoutOut":"Thanks to Dave B for his understanding of Bootstrap and his good taste in laying out a page."
+},
+"brian":{
+"name":"Brian Wayne Daves",
+"description":"Grew up in Austin Texas. I haved lived in Minneapolis for the last 24 years. I have a son Elliot . My wife's name is Christine and we hava a dog named Rufus",
+"shoutOut":"Thanks to Brian for taking much better notes than me!"
+},
+"daveh":{
+"name":"David William Hoverson",
+"description":"I currently dream in code.",
+"shoutOut":"My table neighbor Dave Hoverson has continued to be a great help with great patience."
+},
+"amelia":{
+"name":"Amelia Elizabeth Frevert",
+"description":"I've attained a quarter century of wisdom while growing up in South MPLS. I'm a licensed radio dj and spend much of my time staring out the window daydreaming.",
+"shoutOut":"Being able to relate with Amelia has been great and definitely helpful in getting through these first few weeks!"
+},
+"geoffrey":{
+"name":"Geoffrey Allen Hofman-Frethem",
+"description":"Really big sci-fi nerd. Star Wars, Star Trek, Dune, LOTR, Doctor Who, the list goes on. ALSO BATMAN.",
+"shoutOut":"Goeffrey is great to work with. He obviously has a lot of experience. I really appreciate that he's a good listener, he's flexible and he shares his knowledge like a pro. Hilarious too, which makes working in a group with him all the more fun."
+},
+"jake":{
+"name":"Jacob Paul Schoolmeesters",
+"description":"Grew up in NE Minneapolis. I graduated from Metropolitan State University with a degree in Technical Communication. I have two dogs, Tilly and Cooper, and one cat named Bernie. Video games are fun. Design is cool as well.",
+"shoutOut":"It was great working with Jonathan, Jake, and Zach for the group project over the past two days. Everyone was really supportive of each other."
+},
+"manu":{
+"name":"Juan Manuel Gutierrez Garcia",
+"description":"Born and raise in Mexico, loves Comics, especially DC(not the state duh), Heavy Metal and classic Rock",
+"shoutOut":"Manu for sharing his life journey in his speech today. It reminded me why I decided to come to Prime."
+},
+"john":{
+"name":"John Vang",
+"description":"I really don't have a middle name.  I'm from Calfornia.",
+"shoutOut":"It was great to keep working together with Jonathan, Zach and John."
+},
+"jonathan":{
+"name":"Jonathan Osborne",
+"description":"Green Bay Packers fan, likes jazz on vinyl, favorite beer is Lagunitas Sucks.",
+"shoutOut":"Jonathan is the most enthusiastic coder I have ever met. He is so inclusive and made sure everyone was following his logic. A real gem."
+},
+"loren":{
+"name":"Lauren  Margaret Beatty",
+"description":"My middle name is Margaret ....OR IS IT?!?! Wah, wah, waaaaaaaaah",
+"shoutOut":"I was so excited to work with Lauren today. She speaks her mind and I can tell that she is methodical and just smart. I learn a lot from the questions she asks and I get the impression that she doesn't have a judgmental bone in her body, too. All around cool person."
+},
+"laura":{
+"name":"Laura Margaret Kressin",
+"description":"23 yr old student, artist, sister, daughter and aunt.  Soon to be future programmer/dragon rider.  Call me Khaleesi.",
+"shoutOut":"I'd thank Laura for slowing our team down and breaking the Javascript challenge into manageable pieces. This made what seem like an impossible task, very doable."
+},
+"liz":{
+"name":"Liz Piet",
+"description":"Dana Carvey follows me on Twitter. I sometimes dress up like Wayne Campbell. I love Halloween.",
+"shoutOut":"Liz came and talked to me after class about what her experience has been with the program overall and it helped me to relate and put my own experience into perspective as well. Also offered some advice about our project that helped make it function better. Nice end to the day."
+},
+"erick":{
+"name":"Erick Alejandro Lee",
+"description":"my favorite countries/trips are Guatemala, Colombia, France, Argentina, New York",
+"shoutOut":"Erick is like a ray of sunshine. He keeps things light and optimistic. I think is a forever learner and charming at that. He always offers help and stays positive when things get tough."
+},
+"nicholas":{
+"name":"Nicholas D Renford",
+"description":"Sometimes I forget to turn the oven off.",
+"shoutOut":"Nick Renford is super-knowledgeable, and is very gracious with sharing and helping others in his cohort. He is confident, but not in any way arrogant, and really enjoys helping and sharing his knowledge."
+},
+
+"doug":{
+"name":"George Douglas Ritzinger",
+"description":"Born: NJ, lives: Vadnais Heights, paddles many kayaks, grows tomatos, wants a big snow year, hasn't played tennis lately",
+"shoutOut":"Doug is another true gentleman of Epsilon. He is an organizing machine and I love his notes AND his questions. He helped me today on my assignment. He is patient, kind and incredibly smart. A trustworthy kind of person."
+},
+
+"ryan":{
+"name":"Ryan Merchlewitz"
+"description":"Born and raised in the burbs, rumored to have a life in some circles, and likes to make websites.",
+"shoutOut":"Ryan was pretty helpful today during the jQuery challenges. He helped me today by pointing me in the right direction with my code."
+},
+
+"sarah":{
+"name":"Sarah Ann Marrone"
+"description":"Born and raised in MN, modern quilter, I enjoy baking, I have dreams of purchasing a vacant fire station some day and turning it into a single-family home (I've had my eyes on one for the past year or so), I have a degree in Journalism and Art from the UofMN",
+"shoutOut":"I would like to thank Sarah from my cohort who has been doing a great job explaining things to me at my level, without having any kind of attitude. I do not feel any discomfort asking her questions of any sort related to the topic. She is just wonderful!"
+},
+"zach":{
+"name":"Zachary Allan Thomas Turner",
+"description":"I have two middle names. Born in Denver.",
+"shoutOut":"It was great to keep working together with Jonathan, Zach and John."
+},
+}
+}
