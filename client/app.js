@@ -11,6 +11,7 @@ $(document).ready(function(){
         console.log("--received data--")
         jsonArray = response;
         console.log(response);
+        console.log(response.length);
         var epsNames = [];
         eps = jsonArray.Epsilon;
 
